@@ -12,4 +12,4 @@ Instructions:
 The program automatically runs after gui.py is compiled. Further instructions on screen. 
 
 Evaluation:
-84.5% accuracy compared to ~79% sci-kit learn out-of-the-box model. See Jupyter Notebook for more info. 
+84.5% accuracy compared to ~79% sci-kit learn out-of-the-box model. See Jupyter Notebook (html file) for more info. 
